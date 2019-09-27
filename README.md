@@ -10,5 +10,14 @@ I have added some of the techniques to clean data and to exploratory analysis to
 This is a part of group inclass assignmnet, I have done.
 Contributors: Nisarg Patel
 
+
+HEAT MAP FOR UNCLEANED DATA
+
 ![Test Image 1](1.PNG)
 
+
+
+
+HEAT MAP FOR CLEANED DATA
+
+![Test Image 1](2.PNG)
