@@ -8,6 +8,7 @@ and many morre..
 
 I have added some of the techniques to clean data and to exploratory analysis to make easy for us to understand and clean the data.
 This is a part of group inclass assignmnet, I have done.
+Contributors: Nisarg Patel
 
 
 
